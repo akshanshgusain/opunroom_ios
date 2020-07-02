@@ -1,0 +1,6 @@
+framework module Pods_opUndoor {
+  umbrella header "Pods-opUndoor-umbrella.h"
+
+  export *
+  module * { export * }
+}
